@@ -348,14 +348,13 @@ main {
 
 
 .logosBat {
+  
   position: relative;
   top: 5%;
-  height: 17%;
-  width: 74%;
+  height: 42%;
+  justify-content: center;
   display: flex;
-  transform: translateX(-50%);
-  left: 50%;
-  gap: 20%;
+  gap: 25%;
 }
 .resultados-pesquisa {
   position: relative;
